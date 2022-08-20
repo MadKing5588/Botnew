@@ -4,7 +4,7 @@ const chalk = require("chalk")
 global.available = true
 global.autoReadGc = true
 global.autoReadAll = false 
-global.antitags = false
+global.antitags = true
 
 
 global.Owner = ['201013886848']
