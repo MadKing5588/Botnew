@@ -1,8 +1,8 @@
 const fs = require("fs")
 const chalk = require("chalk")
 
-global.available = true
-global.autoReadGc = false
+global.available = false
+global.autoReadGc = true
 global.autoReadAll = false 
 global.antitags = true
 
