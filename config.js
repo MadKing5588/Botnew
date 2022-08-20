@@ -27,7 +27,7 @@ global.location = "Who knows?"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "Who knows? :)"
+global.websitex = "https://github.com/FantoX001"
 global.lolhuman = "KaysaS"
 
 
