@@ -1,10 +1,10 @@
 const fs = require("fs")
 const chalk = require("chalk")
 
-global.available = false
+global.available = true
 global.autoReadGc = true
 global.autoReadAll = false 
-global.antitags = true
+global.antitags = false
 
 
 global.Owner = ['201013886848']
